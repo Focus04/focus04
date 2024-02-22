@@ -2,7 +2,7 @@
 <h3 align="center">✅Verified Discord bot dev since 2020</h3>
 <h3 align="center">💻Studying computer engineering<h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=focus04&show_icons=true&locale=en" alt="focus04" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=focus04&show_icons=true&theme=dracula&locale=en" alt="focus04" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
