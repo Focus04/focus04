@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alexandru-ogrezeanu-7a9b12358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandru-ogrezeanu-7a9b12358" height="30" width="40" /></a>
 <a href="https://instagram.com/still_ogre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="still_ogre" height="30" width="40" /></a>
 <a href="https://discord.gg/ACq9q2yQcD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ACq9q2yQcD" height="30" width="40" /></a>
 </p>
