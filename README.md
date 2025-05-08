@@ -1,7 +1,3 @@
-<h1 align="center">I'm Alex Ogrezeanu</h1>
-<h3 align="center">✅Verified Discord bot dev since 2020</h3>
-<h3 align="center">💻Majoring Computer Engineering @ETTI Politehnica University of Bucharest<h3>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=focus04&show_icons=true&theme=dracula&locale=en" alt="focus04" /></p>
 
 <h3 align="left">Connect with me:</h3>
